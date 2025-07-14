@@ -1,4 +1,4 @@
-##👩🏻‍💻 Nathan Victor
+👩🏻‍💻 Nathan Victor
 
 **`Desenvolvedor FullStack`**
 
