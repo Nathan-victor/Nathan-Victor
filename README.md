@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nathan Victor, tenho 22 anos e sou natural de Goias. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia.
+Me chamo Nathan Victor, tenho 22 anos e sou natural de Goias. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia.
 
 ---
 
